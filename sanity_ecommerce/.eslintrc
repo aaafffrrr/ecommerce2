@@ -1,0 +1,6 @@
+{
+  "extends": "@sanity/eslint-config-studio",
+  "no-console": ["error", { "allow": ["log", "error"] }]
+
+
+}
